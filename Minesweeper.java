@@ -106,14 +106,6 @@ public class Minesweeper {
     void setMines() {
         mineList = new ArrayList<MineTile>();
 
-        // mineList.add(board[1][2]);
-        // mineList.add(board[1][3]);
-        // mineList.add(board[2][2]);
-        // mineList.add(board[2][3]);
-        // mineList.add(board[3][2]);
-        // mineList.add(board[3][3]);
-        // mineList.add(board[4][2]);
-        // mineList.add(board[5][3]);
         int mineLeft = mineCount;
         while(mineLeft > 0){
             int r = random.nextInt(numRows); // 0-7
