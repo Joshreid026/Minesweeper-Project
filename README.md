@@ -7,7 +7,8 @@ The project features an 8×8 grid, left/right mouse controls, automatic empty-ti
 
 ## 📹 Video Demonstration
 
-https://github.com/Joshreid026/Minesweeper-Project/blob/main/MinesweeperDemo.mp4
+![Minesweeper Demo](MinesweeperDemo.gif)
+
 
 ---
 
